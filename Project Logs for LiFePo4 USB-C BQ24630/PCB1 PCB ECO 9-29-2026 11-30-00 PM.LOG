@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=Q5-1
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=GND Pin=Q5-3
+Removed Pin From Net: NetName=NetC11_1 Pin=Q5-5
+Removed Member From Class: ClassName=Sche Member=Q5
+Added Component: Designator=Q?(POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL)
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=NetC11_1 Pin=Q?-5
+Added Pin To Net: NetName=NetQ?_4 Pin=Q?-4
+Added Pin To Net: NetName=NetQ?_4 Pin=U4-19
+Added Net: Name=NetQ?_4
+Added Member To Class: ClassName=Sche Member=Component Q? SIS412DN-VB
